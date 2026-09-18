@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semak Dulu - Stop Online Scams</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="logo">🛡️ Semak Dulu</div>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="scams.html">Scam Types</a>
+        <a href="checker.html">Scam Checker</a>
+        <a href="tips.html">Safety Tips</a>
+        <a href="report.html">Report Scam</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="hero-content">
+        <p class="small-title">STOP ONLINE SCAMS</p>
+
+        <h1>
+            Think Before<br>
+            <span>You Click.</span>
+        </h1>
+
+        <p>
+            Learn how to identify online scams, protect your personal
+            information and stay safe online.
+        </p>
+
+        <div class="hero-buttons">
+            <a href="checker.html" class="btn">Check a Scam</a>
+            <a href="tips.html" class="btn secondary">Safety Tips</a>
+        </div>
+    </div>
+
+    <div class="shield">
+        🛡️
+    </div>
+</section>
+
+<section class="stats">
+
+    <div class="stat-card">
+        <h2>01</h2>
+        <p>Recognise</p>
+        <span>Know common scam methods.</span>
+    </div>
+
+    <div class="stat-card">
+        <h2>02</h2>
+        <p>Check</p>
+        <span>Verify suspicious messages.</span>
+    </div>
+
+    <div class="stat-card">
+        <h2>03</h2>
+        <p>Protect</p>
+        <span>Keep your information safe.</span>
+    </div>
+
+    <div class="stat-card">
+        <h2>04</h2>
+        <p>Report</p>
+        <span>Report suspicious activity.</span>
+    </div>
+
+</section>
+
+<section class="about">
+    <div>
+        <p class="section-label">WHY IT MATTERS</p>
+
+        <h2>Don't let scammers<br>make the decision for you.</h2>
+
+        <p>
+            Online scams can happen through social media, SMS, email,
+            phone calls, shopping websites and messaging applications.
+        </p>
+
+        <p>
+            A few seconds of checking can prevent you from losing money
+            or giving away sensitive information.
+        </p>
+
+        <a href="scams.html" class="text-link">Learn About Scams →</a>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Semak Dulu — Stop Online Scams</p>
+    <p>Information Security Awareness Project</p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>
